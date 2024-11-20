@@ -2,7 +2,7 @@
 ## hau nia naran Haruka HANAOKA. Hau mai husi Japaun no agora hau aprende Informátika iha universidade iha ne'e. Hau involve iha startup ne'ebé fornese solusaun ba problema traballu iha Japaun. Antes, hau servisu iha ajuda humanitáriu iha Afeganistan no Tajikistan. Hau mos partisipa iha programa atu simu estudanten internasionál ba Japaun, liu-liu hosi Xina. Hau gosta boot de'it ba Timor-Leste. Prazer hodi hasoru ita, no obrigadu barak.
 
 
-## silde is [here](./p.pdf)
+## sildes are ![here](./p.pdf)
 
 ## phrases : 
 
